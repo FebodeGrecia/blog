@@ -1,0 +1,2 @@
+Hola Mundo, estoy aprendiendo Git. 
+Tengo 15 días para entenderlo y manejarlo. 
