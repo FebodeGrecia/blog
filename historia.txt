@@ -1,2 +1,2 @@
-Hola Mundo, estoy aprendiendo Git. 
+Hola Mundo, estoy aprendiendo Git. Está difícil, pero esto me va a llevara conocer el mundo
 Tengo 15 días para entenderlo y manejarlo. 
