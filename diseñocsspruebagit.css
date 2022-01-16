@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: violet;
+    font-family: serif;
+}
+
+p{
+    text-align: center;
+    color: red;
+    border: solid red;
+}
