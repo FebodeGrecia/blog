@@ -1,11 +1,35 @@
+body{
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: solid red;
+    margin: 0 auto; /*esto hace que se centre*/
+
+
+}
 h1{
     text-align: center;
     color: violet;
     font-family: serif;
+    font-size: 7em;
 }
 
 p{
     text-align: center;
     color: red;
-    border: solid red;
+    
 }
+
+
+
+
+
