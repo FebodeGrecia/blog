@@ -23,12 +23,27 @@ h1{
     font-size: 7em;
 }
 
-p{
+#cabecera{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgba(245, 171, 137,0.75);
+    font-size: 5em;
+    color: white;
     text-align: center;
-    color: red;
-    
+    padding: 0.5em;
+    margin: 0; 
+    box-shadow: 2px 3px 10px 2px rgba(0,0,0,0.73);   
+    font-weight: bold; 
 }
 
+ #cabecera #tagline{
+    font-size: 0.5em;
+    
+    font-family: comic;
+    background: rgba(245, 171, 137,0.5);
+    padding: 0;
+    margin: 0;
+    
+}
 
 
 
