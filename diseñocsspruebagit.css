@@ -18,7 +18,11 @@ body{
 }
 h1{
     text-align: center;
+<<<<<<< HEAD
     color: rgb(221, 218, 57);
+=======
+    color: rgb(52, 190, 82);
+>>>>>>> cabecera
     font-family: serif;
     font-size: 7em;
 }
